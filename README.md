@@ -186,3 +186,4 @@ Run the check script:
 bash check.sh
 ```
 This will generate a `marksheet.md` file with your GitHub username and a summary of your lab checks. Your instructor will use this for grading.
+bash check.sh
